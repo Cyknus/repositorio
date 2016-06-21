@@ -2,3 +2,7 @@ archivo muestra para modificar el FORK
 
 películas:
 gone girl
+
+No tengo color favorito, tengo _colores_ favoritos:
+28376C y 5F0000
+
